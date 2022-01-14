@@ -9,6 +9,6 @@ public class DockerController {
 	@GetMapping("/name")
 	public String getMyName() {
 		
-		return "Simple Spring Boot Application - New Version123";
+		return "Simple Spring Boot Application - New Version1234";
 	}
 }
