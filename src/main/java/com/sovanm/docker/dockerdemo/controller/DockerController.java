@@ -10,5 +10,6 @@ public class DockerController {
 	public String getMyName() {
 		
 		return "Simple Spring Boot Application - Habib New Version123";
+
 	}
 }
